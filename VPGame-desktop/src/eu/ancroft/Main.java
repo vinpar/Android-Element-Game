@@ -13,4 +13,5 @@ public class Main {
 		
 		new LwjglApplication(new VPGame(), cfg);
 	}
+	//dummy
 }

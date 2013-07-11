@@ -14,5 +14,7 @@ public class MainActivity extends AndroidApplication {
 		cfg.useGL20 = true;
 
 		initialize(new VPGame(), cfg);
+		//dummy
+		
 	}
 }
