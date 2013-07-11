@@ -1,2 +1,0 @@
-# Module eu.ancroft.GwtDefinition
-# RPC service class, partial path of RPC policy file
