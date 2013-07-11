@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/VPGame"/>
+	<classpathentry exported="true" kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="VPGame-html/war/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="/VPGame/libs/gdx.jar" sourcepath="/VPGame/libs/gdx-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/VPGame/libs/gdx-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="war/WEB-INF/lib/gdx-backend-gwt.jar" sourcepath="war/WEB-INF/lib/gdx-backend-gwt-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="war/WEB-INF/lib/gdx-backend-gwt-sources.jar" sourcepath="C:/Users/Vincent/Documents/GitHub/VPGame/VPGame-html/war/WEB-INF/lib/gdx-backend-gwt-sources.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
